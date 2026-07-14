@@ -4,32 +4,29 @@
 
 Toulouse, France
 
-Développeuse Web Full Stack spécialisée dans la conception d'applications web robustes, sécurisées et prêtes pour la production.
-
-Je conçois des solutions complètes, de l'analyse des besoins jusqu'au déploiement, avec une attention particulière portée à l'architecture, aux performances, à la sécurité et à l'expérience utilisateur.
+Développeuse Web Full Stack spécialisée dans la conception, le développement et le déploiement d'applications web modernes, sécurisées et prêtes pour la production.
 
 ---
 
-# Live Portfolio
+# Portfolio
 
-**https://works.simonyandigital.com**
+https://works.simonyandigital.com
 
 ---
 
 # À propos
 
-Développeuse Web Full Stack passionnée par la conception d'applications web modernes, robustes et prêtes pour la production.
+Je développe des applications web complètes, de l'analyse des besoins jusqu'à la mise en production.
 
-J'accorde une attention particulière à :
+Mon approche repose sur :
 
-- Architecture logicielle
-- Qualité du code
-- Sécurité
+- Architecture logicielle claire
+- Code propre et maintenable
+- Sécurité applicative
 - Performance
 - Responsive Design
 - Expérience utilisateur
-
-Mon objectif est de concevoir des applications fiables, maintenables et pensées pour une utilisation réelle.
+- Intégration d'APIs et de services tiers
 
 ---
 
@@ -37,9 +34,9 @@ Mon objectif est de concevoir des applications fiables, maintenables et pensées
 
 ## 🐾 QR Animaux
 
-Application web full stack développée de l'idée jusqu'à la mise en production.
+Application web Full Stack développée de A à Z et mise en production.
 
-QR Animaux simplifie l'identification des animaux grâce à un médaillon QR connecté et centralise l'ensemble du parcours utilisateur au sein d'une plateforme unique.
+QR Animaux est une plateforme permettant d'identifier rapidement un animal grâce à un médaillon QR connecté tout en centralisant l'ensemble des fonctionnalités dans une seule application.
 
 ### Fonctionnalités
 
@@ -53,27 +50,27 @@ QR Animaux simplifie l'identification des animaux grâce à un médaillon QR con
 - Notifications e-mail (PHPMailer)
 - Google Maps
 - Génération de QR Codes
-- Responsive Design
-- SEO
 - Traitement d'images avec Python
+- Responsive Design
+- Optimisation SEO
 
 ---
 
 # Stack technique
 
-## Front-end
+### Front-end
 
 - HTML5
 - CSS3
 - JavaScript
 
-## Back-end
+### Back-end
 
 - PHP
 - MySQL
 - Python
 
-## APIs & Services
+### APIs & Services
 
 - Stripe
 - Twilio
@@ -81,7 +78,7 @@ QR Animaux simplifie l'identification des animaux grâce à un médaillon QR con
 - Google Maps
 - PHPMailer
 
-## Outils
+### Outils
 
 - Git
 - GitHub
@@ -96,26 +93,23 @@ QR Animaux simplifie l'identification des animaux grâce à un médaillon QR con
 - Applications Web Full Stack
 - Architecture Backend
 - APIs REST
+- Bases de données relationnelles
 - Intégration de services tiers
+- Sécurité applicative
 - Responsive Design
 - Performance Web
-- Sécurité applicative
 - Expérience utilisateur
+- Déploiement d'applications web
 
 ---
 
-# Liens
+# Contact
 
-**Portfolio**  
+Portfolio  
 https://works.simonyandigital.com
 
-**LinkedIn**  
+LinkedIn  
 https://www.linkedin.com/in/haykanouch-simonyan
 
-**Contact**  
+Email  
 contact@simonyandigital.com
-
----
-
-Merci pour votre visite.
-
