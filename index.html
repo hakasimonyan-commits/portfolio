@@ -21,7 +21,7 @@
 <body>
     <div class="page">
 
-        <header class="header">
+            <header class="header" data-header>
             <div class="container header-inner">
 
                 <a
@@ -33,7 +33,10 @@
                 </a>
 
                 <nav class="nav" aria-label="Navigation principale">
-                    <ul class="nav-links">
+                        <button class="nav-toggle" aria-label="Ouvrir le menu" aria-expanded="false">
+                            <span></span><span></span><span></span>
+                        </button>
+                        <ul class="nav-links">
                         <li><a href="#project">Projet</a></li>
                         <li><a href="#skills">Compétences</a></li>
                         <li><a href="#about">Approche</a></li>
@@ -56,6 +59,7 @@
 
             <h1 class="hero-title">
                 Je conçois des applications web
+                
                 <span>
                     fiables, utiles et prêtes pour la production.
                 </span>
@@ -517,9 +521,11 @@
         <footer class="footer">
             <div class="container footer-inner">
 
-                <p>
-                    © 2026 Haykanouch Simonyan
-                </p>
+              <p>
+
+          © <span data-year>2026</span> Haykanouch Simonyan
+
+             </p>
 
                 <a href="#hero">
                     Retour en haut ↑

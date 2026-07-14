@@ -1,6 +1,8 @@
 "use strict";
 
 const header = document.querySelector("[data-header]");
+const navToggle = document.querySelector(".nav-toggle");
+const navLinksList = document.querySelector(".nav-links");
 const revealElements = [
     ...document.querySelectorAll(
         "[data-reveal], .section, .project-showcase, .highlight-card, .skill-group"
@@ -151,6 +153,21 @@ const init = () => {
 
     updateScrollState();
     setupSmoothScroll();
+    if (navToggle && navLinksList) {
+        navToggle.addEventListener("click", () => {
+            const isOpen = navLinksList.classList.toggle("is-open");
+            navToggle.classList.toggle("is-open", isOpen);
+            navToggle.setAttribute("aria-expanded", String(isOpen));
+        });
+
+        navLinksList.querySelectorAll("a").forEach((link) => {
+            link.addEventListener("click", () => {
+                navLinksList.classList.remove("is-open");
+                navToggle.classList.remove("is-open");
+                navToggle.setAttribute("aria-expanded", "false");
+            });
+        });
+    }
     setupReveal();
     syncYear();
 
