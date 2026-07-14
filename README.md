@@ -1,9 +1,12 @@
 # Haykanouch Simonyan
 
-**Full Stack Web Developer**  
+## Full Stack Web Developer
+
 Toulouse, France
 
-Portfolio professionnel présentant mon parcours, mes compétences et mon principal projet : **QR Animaux**, une application web full stack conçue de l'idée jusqu'à la mise en production.
+Développeuse Web Full Stack spécialisée dans la conception d'applications web robustes, sécurisées et prêtes pour la production.
+
+Je conçois des solutions complètes, de l'analyse des besoins jusqu'au déploiement, avec une attention particulière portée à l'architecture, aux performances, à la sécurité et à l'expérience utilisateur.
 
 ---
 
@@ -116,4 +119,3 @@ contact@simonyandigital.com
 
 Merci pour votre visite.
 
-N'hésitez pas à me contacter pour échanger autour d'une opportunité ou d'un projet.
