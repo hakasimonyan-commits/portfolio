@@ -352,6 +352,13 @@ a {
     transition: gap var(--transition), border-color var(--transition);
 }
 
+.project-links {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+    flex-shrink: 0;
+}
+
 .project-link:hover {
     gap: 15px;
 }
@@ -696,6 +703,13 @@ a {
     .nav-links a {
         font-size: 0.78rem;
     }
+
+    .project-links {
+    width: 100%;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 14px;
+}
 
   
 .hero {
